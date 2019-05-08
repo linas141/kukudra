@@ -1,0 +1,1 @@
+bin\cake orm_cache clear
